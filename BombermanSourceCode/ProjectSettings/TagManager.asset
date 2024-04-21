@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Breakable
+  - PowerUps
+  - Wall2
+  - Bomb
+  - Explosion
+  - Explosion2
+  - Breakable2
+  - Enemies
+  - Door
+  - PlayerStart
+  - Node
+  - Unbreakable
+  - Stage n Life Sys
+  - ScoreText
+  - Main_Spawner
+  - Door System
+  - Field
+  - E_Spawning_Location
+  - Spawny_Spawner
+  - Spawny
+  - Main Music
+  - Powerup Music
+  - Item Get
+  - Enemy Death
+  - Bomb Sfx
+  - Reverse
+  - Music Sys
+  - F_Tracker
+  - PowerUp Spawning
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - Bomb
+  - Player
+  - Breakable
+  - Explosion
+  - Obstacle
+  - Node
+  - Unbreakable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Canvas
+    uniqueID: 3745173755
+    locked: 0

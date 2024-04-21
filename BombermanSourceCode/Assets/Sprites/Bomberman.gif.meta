@@ -1,0 +1,7284 @@
+fileFormatVersion: 2
+guid: 3bd5ad44258119b449a5c3c4b8fc5bd9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 219
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa2a2b808f36074582ba5123da051f1
+      internalID: -1076396330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 219
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f8787d25caf6f4da6bd8b538537204
+      internalID: -817743082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 219
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b996db847510a54fb9015900e66419d
+      internalID: -1555065146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 220
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bb7f63a0a24244f8a04e4f333105af
+      internalID: 193375416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 220
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8b5a815f1616047a8b0f8fdefa63bc
+      internalID: -1728830670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 220
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bfb14a938952f4285356922c2b7f97
+      internalID: -1119182141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 220
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c599ec86ba9c82140941b01571216a27
+      internalID: -1441132968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 220
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868424e125937fe4287a241ecaa95e89
+      internalID: -2044743876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 219
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1a91eea02ce764685e0dd4234dad2a
+      internalID: 544817641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 220
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52972d81caa27554b92ac0b85d728518
+      internalID: -1885179873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 220
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde0189ae7e7a5040a0bf7dc228e00d8
+      internalID: 1214745163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 220
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0890b7576b05448b53f7506dca4726
+      internalID: -1825945031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 220
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e273026187482b143b5966315c3bf5fb
+      internalID: 1724588260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_13
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 219
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff414c2b607dd45458788126e7d96d54
+      internalID: -1183743718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 219
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18fab7e6c8152541abb325697337fde
+      internalID: 502255326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 219
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d5327a66ff64549a50a9c5517ac2ad
+      internalID: -1795885310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 220
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131e74c8983f63d40bd990be723bc142
+      internalID: -99342749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 220
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d1741d54de7974cbf2a034e66fedbd
+      internalID: 737323168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 220
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747de570fd32fae4e8cbc725aafee9dc
+      internalID: 512891288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 220
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9507952bfdb0a774484f9c5c35dbccc0
+      internalID: -784508211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_20
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 220
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273e13a3537a925438461e4b743d3e8c
+      internalID: 93713527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_21
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 220
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eff44cdea6e5514fa25b06a6f0e967f
+      internalID: -489820721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_22
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 220
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4da0d747fd3d2648baf8b60e0b57bd2
+      internalID: -873153157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 220
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7be45ebb99f57e4db44f868173f77df
+      internalID: 1599380911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_24
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 220
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0268b108c3ad2f140a16bd180525aaf0
+      internalID: -1522344308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 220
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f320231d7db31944db616e2365c96ad1
+      internalID: -898272445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_26
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 220
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1788849c5b96275479cd6b2c396718cb
+      internalID: -1110331808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_27
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 220
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4490efcf04666774da4703ec7ba7f5da
+      internalID: -1450917054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_28
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 219
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efb81ab7e9058e4996c7a23b02aabc8
+      internalID: -1928441042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_29
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 219
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed14b3a89dbf1c44b84fc78440ed544
+      internalID: 448763787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_30
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 220
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdbd78756c99654d9a0fb15ec139c8c
+      internalID: -63240987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_31
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 220
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4857d45ee8f6add47b4e0183e6fc68ba
+      internalID: 620161391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_32
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 220
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24597a5d58eb62d4bb694f2eae9f6ecc
+      internalID: -1718116190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_33
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 219
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc358250396737e498b8ef9afe68cfff
+      internalID: -1391670512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_34
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 220
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a4ec7de3a6ea04a9b3e3c49de8f0ed
+      internalID: -321686873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_35
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 220
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2862be5b08a6c45837e41446d114c4
+      internalID: -2001849796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 186
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84020913d6b85cc4dabbd62cb5b3f710
+      internalID: 464269671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_37
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 186
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599baab160b50e44ea61f30f02a7f56e
+      internalID: -1412495903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 186
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da683f06f2f4a34185cabeb62220e85
+      internalID: 992686889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_39
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 186
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fd3e5fd9c2f9b48b4b4f2478644279
+      internalID: 286571778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 186
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603557f8364b76440b61e5bf155849e6
+      internalID: -1502942220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 186
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d755c36c9ac9546b06425152e1a600
+      internalID: -1596315563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_42
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 186
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06287e92b1bc0a4cb5b0ff3120161a7
+      internalID: 988333504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_43
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 186
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab9ae975caade04d82d6a9585ab733a
+      internalID: -1345823928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 186
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fce553b0fb095146ad936dca8b0cf54
+      internalID: -157914317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_45
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 190
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc968713dc25e240b0a83cb076cd524
+      internalID: 2028738638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_46
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 188
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc265ea194d47d14798f8f1e6b7f73a2
+      internalID: 1900368307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 187
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf673712f8ef2694ab7d869e819ae00f
+      internalID: 155266849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 189
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4922bd4f146c534698077570dc28fd4
+      internalID: -502814238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_49
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 187
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30ac3861eeee354ebc68ec26c36eb45
+      internalID: 1271710887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_50
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 189
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d26578afe1cb3c4db991676cc788027
+      internalID: 902312761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_51
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 187
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970cc013c720db94c8b507621a934e7a
+      internalID: 737729108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_52
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 195
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1481c1f68cb9d643a5fd9772117e880
+      internalID: -433954091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_53
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 195
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de8f64fcf03e4e4aa9c373eca450138
+      internalID: -1713985366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_54
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 193
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56059be30300684b88f571585f868a4
+      internalID: 1356759002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_55
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 195
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2a00013eade174c96fb2e42169e998
+      internalID: 1958508015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_56
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 193
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fae5a25d9ae18c4686bcf35d1b6ff61
+      internalID: 284862480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_57
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 193
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967f42041be758e49a55c5b619ac5953
+      internalID: -1495119224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_58
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 195
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd4848091f5304499aeb7b50c0393e9
+      internalID: -164358107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_59
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 196
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6618231c8432f40bbf4b6568f8d24b
+      internalID: -1824235601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_60
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 194
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f16ace308c0ce44a22349c5a53f3fd
+      internalID: -1985012922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_61
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 197
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9b2d005fb70bc46ab210c9f07fd770
+      internalID: 1630145396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_62
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 187
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c48ac57651b13b4e90d6bde3cd11107
+      internalID: -1082606970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_63
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 186
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b7f0bf10e72904fa33419dc3119f83
+      internalID: 664932079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_64
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 202
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87128357bc3ecd47b33bb6b7d38bade
+      internalID: 213805098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_65
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 186
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce13e377a3e53f3468a6d3b40e3ab69a
+      internalID: -1723185144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_66
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 186
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cd3c3c1783ee948b4734c3120ad8aa
+      internalID: 473240875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_67
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 188
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b2e57a8515d7c488c9bb7fc5990439
+      internalID: 1952607651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_68
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 194
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efa452bc99497c468d3ed28f9cce546
+      internalID: 1835590237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_69
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 193
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7395444a10dd6418c97a1769ca938d
+      internalID: 1265773603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_70
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 189
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a899be6f3768834fb23a33283ae3c38
+      internalID: 1252294249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_71
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112ec993b68384e4ca6797b1e0e0305d
+      internalID: 560254692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_72
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 197
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d428a534716864caeb1817bd166818
+      internalID: -1439844955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_73
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 193
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9708de5474564148b49e0f1c5191257
+      internalID: 952056705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_74
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 186
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ab10077553dae4bbb7bc2577ac9fed
+      internalID: 1227336857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_75
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 186
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de307061f5a18214b8622bd7cf0196df
+      internalID: 104120365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 154
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1384d4a4ed0134ca1afca1bc5beae4
+      internalID: 406710048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 154
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ae5f2f447793243a7570166933b57c
+      internalID: 1896337259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_78
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 155
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc833b07c15785341833d16364338df5
+      internalID: -1300954869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_79
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 160
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fc7b4aedee9aa4fb6e880ef6869542
+      internalID: -368005293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_80
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0ebf56f98b1bb4b9db97bbfdabb05b
+      internalID: -520249723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_81
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 157
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34226a2b6368d10478f9da8e5cefd2a3
+      internalID: 737800215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_82
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 155
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1b4b93281352144b0e2ff5476f96ef
+      internalID: 270771452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_83
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 154
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05e54c5ad78d6144bd93124db1f8091
+      internalID: -1836031844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_84
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 153
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cd37df977228b4c9a9475af52e7e6a
+      internalID: -1019166653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_85
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 154
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b799be7d2ba1c304d80f785ae1e04271
+      internalID: -1721721526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_86
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 153
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1669a759c9d3f2c4191c935c47d29bf7
+      internalID: -1632477624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_87
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 158
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa027806cc997044a92851f2f13b47d9
+      internalID: -1390954950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_88
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 157
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5d9663a5bfed542835bd78fc4a9232
+      internalID: -359799727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_89
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 157
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00072ea2ea266e44a8a8b3fe2496716
+      internalID: -523871807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_90
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 157
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572945d4eb6cd8a4ebd7f28ccf4f85dc
+      internalID: 823644389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_91
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 155
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f22ea6176b01d04cb2073ed36fe1c71
+      internalID: -1782967091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_92
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 155
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6d9208e6d1fa34897101445c9e70f4
+      internalID: -1015071292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_93
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3cd36909e368b41894b5c628060bfe
+      internalID: 822375821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_94
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e89cadf9c4b58a4c93b73e21c4fcd28
+      internalID: -532040292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_95
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 154
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318c137f2ade003469eba66fb620ede6
+      internalID: 1383641840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_96
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 155
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da1ad38925c1534285d75d4a3d9e596
+      internalID: -769087359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_97
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 154
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6aa50f0fb409143a5eaac2d6d14d19
+      internalID: 2043781312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_98
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 155
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370fe8147331f2d40ab0546191de30a7
+      internalID: -1714022311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_99
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 153
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f082d5513380c704dab912f6afbff871
+      internalID: 1838639107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_100
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 153
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c564b15f2f723c41aefabe45c3b03fb
+      internalID: 1679732442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_101
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 153
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5bc70b19fa4c64ba801623dd53bc93
+      internalID: -1130307749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_102
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 153
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1ba6691e6873d4fa72a2d2a0a01939
+      internalID: 1314977518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_103
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 152
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8394f925e62b125428d8049ad5178bd9
+      internalID: -2070799151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_104
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 152
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffdb9c9ceab85346be063b08a9cb946
+      internalID: 1697981641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_105
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 151
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbb494303586d942b92b61081ba81f6
+      internalID: -350802518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_106
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 152
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fea9065ba7e6524db5123e8c71ff0ca
+      internalID: -312703585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_107
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 151
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec696372606a1aa4b8786ab7bee00962
+      internalID: 1544275092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_108
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 151
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85ca00f6dc8b0a42a7cf4cc1692a681
+      internalID: -382724273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_109
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 118
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c6336a0cc482148bc3aa12f33c2885
+      internalID: -1080501339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_110
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 118
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f142c6e8b9ebe5e4cb54fe7ee638a879
+      internalID: -1233875926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_111
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 117
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfd7b0692cc30544bf81548b9a9047a
+      internalID: -677333333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_112
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 117
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1564bddfd41e0740a9f5f4db8a53f17
+      internalID: -210281347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_113
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 118
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c50bf274aa6a1447989f0c4b3bfcd29
+      internalID: -1557601612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_114
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 118
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccdc2450f8b65b4fbc3ffa3d463a6e4
+      internalID: 1177512905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_115
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 118
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4931544b2cf7d0043b61015c6659ffde
+      internalID: -1332761857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_116
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 119
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69c9f9e87d74c046b415694d3cbf36e
+      internalID: -1039034967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_117
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 119
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f936e82422937f44bbc6e55095f2583
+      internalID: -1669881612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_118
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa42e631bac8c9f4e9ef204720341a44
+      internalID: -978145043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_119
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 120
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ff3bb325e51ce4e98e007b0fe97b1f
+      internalID: 56680078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_120
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 120
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879b614cf7fbaa142bc6bf9d0a43c52a
+      internalID: 2092101717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_121
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 125
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf380c4c825d8d948bb47560e77c4d9a
+      internalID: 1569161993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_122
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 121
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00f74148554cea4a9b2428b157bf926
+      internalID: -1932010419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_123
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 127
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1332731e37f988845bb1a32dd3abdd4e
+      internalID: 1078127386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_124
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 129
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b8e4777a3e5aa4dab469435f851bc6
+      internalID: 355975390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_125
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 125
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762a94d99bedcd445ad9091f32a3d148
+      internalID: 219821328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_126
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 126
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c221cb7ee8d7047a5c925042489678
+      internalID: -1897575859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_127
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 125
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8839f8c35c61f048955befd32158853
+      internalID: 1830056162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_128
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 126
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6130f771f17694ba2b281880ea813f
+      internalID: -1500867479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_129
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 118
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91521bdaafdafa438c9bc7e249b03c1
+      internalID: 1471589512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_130
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 118
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bd7a2633b5257449e6fd86fc1e0798
+      internalID: -89920525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_131
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 118
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5242383e2234a5545840680e434bc06f
+      internalID: -1390794546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_132
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 116
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58639844f46e7b54baa13be04fe18832
+      internalID: 84290317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_133
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 120
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151dac21d3f7ed246b397e43d90e4f6b
+      internalID: 899746307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_134
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 118
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0986fca4277c541830ac6b42ef5cc5
+      internalID: 257412589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_135
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 117
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58638a45f01268e4aaad8e8935b9348c
+      internalID: -647235841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_136
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 103
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3d4f0c614220e42b9ec7c2aa963ac5
+      internalID: -1960848809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_137
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 120
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ef2782a290cfe4eb31f2191e58ff9d
+      internalID: -1097019683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_138
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 120
+        width: 25
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972741f727500da428d9b79f5ff8d399
+      internalID: -2134247776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_139
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 115
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0047aed3402d28442af087d8c634731f
+      internalID: 373224690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_140
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 115
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b643a961f693946ba26154cabc34ab
+      internalID: -1721361430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_141
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 92
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813eafe23cdf9f9449511bc2f4b71deb
+      internalID: -116609184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_142
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff802300f6712a43ad9d5eba01af54d
+      internalID: 377581615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_143
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 91
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60034eb88f3d0324b8fccfaaaa4f0ec6
+      internalID: 1372429083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_144
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19303dbc9796fe74e94d1624bac5e469
+      internalID: -1541626391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 91
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081ad949df4714b4f88212733339685b
+      internalID: 2059221613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_146
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed88df579a66d04d950c09bef5e485e
+      internalID: -1009736293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_147
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 91
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb11f4513c03e345aeb76c37b7750b7
+      internalID: 223096258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_148
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe2ec42c63794d49ab32d29f0b79367
+      internalID: 1014655275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_149
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 92
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f94074f6012f041bbeb16e1ed84954
+      internalID: -2112735035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_150
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757c46723a5694540b45f89f9c3e10ca
+      internalID: 818418673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_151
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 92
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db92a48ced06d74aa0f473465aeb043
+      internalID: -1151863193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_152
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd18772cd4c30aa41b485781a1f923c5
+      internalID: 1471219141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_153
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 92
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0334d55cfa349924e9425bc52eaabd02
+      internalID: -1419380597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_154
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af730d803276c648af5c21c108e18ba
+      internalID: -705421370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_155
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 92
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dac88e738e97c4e856bc5e75017208
+      internalID: -1927369486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_156
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5a1fe9e539df943b5d15e53291fe65
+      internalID: 141063214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_157
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 92
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a41d87420560dd4bb616e8acf66dec4
+      internalID: 1161877883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_158
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b2421bb4481f94b9c977bd30aaa537
+      internalID: -422000394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_159
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 91
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8f8260a28a41545bb30a9dfe4079eb
+      internalID: 151834143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_160
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 87
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe482cd0eadbc741a7e943063bb47a1
+      internalID: 204631938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_161
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 91
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97952a933dd2b264abff752794b49748
+      internalID: -1092132291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_162
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 87
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241212168cbcfde4b976f2ba7d1b3cb0
+      internalID: -23806102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_163
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 90
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495558c303dc6ef4e90ffd400098b998
+      internalID: -1520793742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_164
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 86
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc7ca163a2419b469336e7183e64015
+      internalID: 631648778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_165
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 90
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75744f49a30e2a3468361bdf8825bfd4
+      internalID: -1202198313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_166
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 86
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e237018727d75084d83bbe3267ff397a
+      internalID: 1735969907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_167
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 90
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d5460fd954bb546a4232728be90702
+      internalID: 12578991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_168
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 86
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3daad72491c1394a9ff357c6246b0d7
+      internalID: -1297986302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_169
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 90
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64a74a4539dee5469cc5f6ccd3f77f5
+      internalID: -1536179173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_170
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 86
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de0b19673351a3409172b96fd0c105c
+      internalID: -1759928636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_171
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 90
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8486be82b9ee1b64aa52334f4aa3a07b
+      internalID: -1863427907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_172
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 86
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1bf6301ecf2634a975da21d67c0c63
+      internalID: 761240721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_173
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 90
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f6844387f0f0048a6b6d31f5a58d18
+      internalID: -1784463718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_174
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 86
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cb83b150f68e948bbb3ca20c699e40
+      internalID: 324550230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_175
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ac2f18062c48f4a946fe84ba755bdf
+      internalID: 508750336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_176
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f46d0f182fa0b4c83132acc0c51cf6
+      internalID: 1093095880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_177
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d76b42f7ca13c488a6e1ca09bccf44
+      internalID: -7907550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_178
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04207a960f963a40a724ec2bd4c6369
+      internalID: -226095087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_179
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98132561b2058f44fb18a2ed27e18f8c
+      internalID: -1291005737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_180
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022d86878c3935f4886aee6a09a6830a
+      internalID: -1932286384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_181
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505cb04558395ac408f3124ae879b1f9
+      internalID: -1660448022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_182
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f265719ee4667d6478c6213e5b07a67a
+      internalID: 2045652931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_183
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780fd0b4422427c46834bc723591aaff
+      internalID: 1382114338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_184
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a9ccb18c7129b4cad44268c1dbee7f
+      internalID: 1743267177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_185
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce601c85659a0ff47a58ab575d0985c8
+      internalID: -2103149804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_186
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae52a035aa021043a8fe8de269eb717
+      internalID: -307050539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_187
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19ff39ca98cfe14e84c825deef58f61
+      internalID: -244645861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_188
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c7e4dc59efae74e93b7ac1720c7ba8
+      internalID: -890758113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_189
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268751121b1c3b249b87f675e22349a4
+      internalID: 1283093840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_190
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b648b50d9589a04292b25d8b191fff3
+      internalID: -1074391094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_191
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a85ce544286d5b4596a76e05c5c3861
+      internalID: 1440177345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_192
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e6dd860ec0db94797d629a3b3bac41
+      internalID: -893474837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_193
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e79d7a462826f4c84b8630c94caf04
+      internalID: -1873638043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_194
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29666263f60f7d498a636ec192d3923
+      internalID: 1150939950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_195
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9624cd2d93f4e4e989120bd87568a2
+      internalID: 172245130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_196
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7757dc8fc5f2bf24593c990be09b31a0
+      internalID: 1056356584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_197
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3030ffefbb6156f4aa3cac6fcbb23ee6
+      internalID: -1917803086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_198
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ee54b1649df8940963f54a4e2c996f
+      internalID: -1921783529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_199
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86643fb3bbab9f54083d5361a7b109f9
+      internalID: 2040529809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_200
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f0f773642a14d42aeb004e02b4d1f2
+      internalID: -912587416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_201
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af9e91f2b76eda4a8d7d45aea5badb7
+      internalID: 1167216439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_202
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27950abe99453541bbf4a0ac86a10a5
+      internalID: -1312096994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_203
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98285d840e140a140a1920c233892414
+      internalID: 840083790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_204
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be9a9578bc43f547928a229273d8a24
+      internalID: 1414552513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_205
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a2b01d2647ecb4bb3e6e320f23b58f
+      internalID: -44455101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_206
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b020db2c2e6e9a0428d7144a72f66299
+      internalID: 1133518120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_207
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114a5f0812181154b97ea10c0e1b7c65
+      internalID: 242397323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_208
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7b8e34ddf305d46a0313c6fb400053
+      internalID: 407916897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_209
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d618b0a81f043442b5e218401a10542
+      internalID: -1217540708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_210
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421734486d06926499b1ef5d41060a6e
+      internalID: -884451533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_211
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05470cf4560e2f24f9f1207df902801e
+      internalID: -546983031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_212
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bdf9e6ecb512740a1b0787f19fb10f
+      internalID: -809088464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_213
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b46a5be0619f934091e3e821d1f58ac
+      internalID: -2115922056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_214
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe2e2a561d6e504e9814df00c294f06
+      internalID: 949293939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_215
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520a6b3c951d01a438285f988215f154
+      internalID: 1993820215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_216
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c17d1b0804aaa4696f166df40aaf68
+      internalID: 1384944929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_217
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27bb803047aa2a4b848bc3ce40e65ea
+      internalID: -1136514670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_218
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f25a1afdc1ea94e9dcb485f3800f89
+      internalID: -1669140326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_219
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e21976390137c418a0951345a8db7a
+      internalID: 312936684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_220
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9682d9b3d6cb1194589a043b4e77c8b3
+      internalID: 1737275229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_221
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b257053c0eccc94f9a29974e65a67e4
+      internalID: 1186567980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_222
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764e8e35b20c15f408fba6ed2eb7ac98
+      internalID: -1846326158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_223
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d476febde36ff419079678ddbddc49
+      internalID: 618261349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_224
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7e228dd3aec3c42a81c32d709f5970
+      internalID: -789230825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_225
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29368b6a0c87f8248b3d47684f6318b3
+      internalID: -870660698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_226
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8436963939a736f4993a25283431e516
+      internalID: 1879325677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_227
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d05bbdf2743f14dbf25d4ae3e92f47
+      internalID: 1735322558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_228
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0014e655edbd341ba1e15b83614cfe
+      internalID: 1133197637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_229
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c75fed68603304b96a21e036e36283
+      internalID: 1802595662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_230
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a449346c2ea424599a206a99d987cb
+      internalID: 40623941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_231
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c49c786b0158c4bbdf6a2e817e2418
+      internalID: -1499113569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_232
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc34747d2a807943be9592c2a6a660f
+      internalID: 1281698675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_233
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c99aae6cf3325347b04f5c0647c9094
+      internalID: -1297575649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_234
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0078517b2f5f2534d825557a2f14f0ac
+      internalID: -61077911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_235
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef45d026ed67244b949cb9bf980b1eb
+      internalID: 1071459209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_236
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e3693c9ab70cd40b2777f85853e053
+      internalID: -1941095576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_237
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a7d8384d9bced4592cdda9cdd8b88c
+      internalID: 237138695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_238
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c3a33d85d87db47a1344454d356bc4
+      internalID: 1391572578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_239
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b33f93350bda940b6541a48e2ad07e
+      internalID: -486617717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_240
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af114a6cf0323d44b51122c3afb1b93
+      internalID: 924754149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_241
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33859ba8bfae1a044b67db2d0aed1d73
+      internalID: -633835256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_242
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8715f3a1d2914294fa0e4cc4cdab41ae
+      internalID: 342869978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_243
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c2ef604171e9c4b979782cc8985a00
+      internalID: -101574976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_244
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f8b113a4b6dc049964ecb1bd547bc5
+      internalID: 1980486730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_245
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0286979aa4ba869478d3c88eab19987a
+      internalID: 1158979611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_246
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b7aac37ec9311458d309455a1cc7f8
+      internalID: -847967904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_247
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ba326473d29bb4490ddb4650a58817
+      internalID: -648443384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_248
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d220baed1d6c0b14580ee35a2e361b96
+      internalID: -385006341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_249
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9d0a633f8d78543bca6c586c31ef70
+      internalID: -1817205880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_250
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d927c00383da84442b28569cf93526d2
+      internalID: 892096876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_251
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae22e7e037145749836906d6daf802f
+      internalID: -886193070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_252
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08fd75705e79af4e89920de15bb13b9
+      internalID: -617139717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_253
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fd0cce11203ac4ea01013691fae3a4
+      internalID: -1525313640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_254
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257470d0154a3454eab4104205d90742
+      internalID: -1922637811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_255
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3175e3946ba627644bf86d0038adf818
+      internalID: 2146762406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_256
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58eb38943ba0df449a877f7cf228c362
+      internalID: -1115569368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_257
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc792971fb70514bb91b11919f401f5
+      internalID: -1918834202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_258
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df8793c6fc08f244976be7e8fc5e742
+      internalID: 934222705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_259
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b854363a71bbb14ba7a5d37f83c6f0a
+      internalID: -364591268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_260
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40487b78db5d9b74ea9ab87b6532cd45
+      internalID: 1288977097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_261
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dfe24373fb24a4f900a008054da484
+      internalID: 1640741360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_262
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 22
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4a02def7311e64c9a8fd32ef70d1b7
+      internalID: 1513582642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_263
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 22
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaf272ddd0f4aa4ca12ce410fbaf273
+      internalID: -1874492814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_264
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60b229c50951a941abf3d792fea044c
+      internalID: 910807456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_265
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 22
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942b8a2f9447a3b4a956e2682113a7f7
+      internalID: -480425780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_266
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b8f73d85cb80241a49bdea22506a76
+      internalID: 2077373062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_267
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a2c9107006de34d9415bb32b4a95cd
+      internalID: -2095622751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_268
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeff7eb1307d77847b5d37928ec20065
+      internalID: -1637304710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_269
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 22
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c100309ac68adc449c4fcc398b451d7
+      internalID: -491218308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_270
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 22
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a6809b4d0f9c54c8cacf2bc0769f36
+      internalID: -1138100369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_271
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bd92db6e727f942833df5002a1a2b9
+      internalID: 1930849096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_272
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe79b23dc063da438b420e896fe5e6b
+      internalID: -1981441124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_273
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a1cab36f4d92341845d676cf816ad2
+      internalID: 669639758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_274
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1440487ca3903604293e60bc25935a1f
+      internalID: -2093803241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_275
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 22
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844d6dfb95b97714281e5e68ee0e50c9
+      internalID: -866243235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_276
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963bf036092e9174792ca8dd401e5234
+      internalID: 2140729754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_277
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 22
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688297fbb5a7b3a478a66ce3d48f09a5
+      internalID: 1516470995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_278
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2397a669a7d79e349bb1363b808445f8
+      internalID: -693020547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_279
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd76f1cdccc4e3d488c23c810c291054
+      internalID: 1776321544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_280
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea64f1f2893f204093970144b962cca
+      internalID: -1609949610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_281
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12b82a8190d0e64491636439bf35ad3
+      internalID: 1473746069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_282
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 22
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40bd6793656ce445bb1c30421ce6801
+      internalID: 1742746457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_283
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f04239fe4b9534892b3c75fc1de8ef
+      internalID: 1246806032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_284
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65823a5d136f1a64b951d8d9698de03c
+      internalID: 1690590158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_285
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca9ff11ec09f5547be96967711daa31
+      internalID: -1470898788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_286
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 22
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e2646e37ce26a448ebd96f9a922c00
+      internalID: -1900146100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_287
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 20
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444d0a0f0fee5dd4196ce4a640cde093
+      internalID: -1637616027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_288
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a151d125ba096784498330da6961c6f6
+      internalID: -446110741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_289
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d121edcefa6620c4498e14b466f7a4c0
+      internalID: 470846756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_290
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb63e735ca61214a8590c8fc7316afe
+      internalID: -1394769900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_291
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7979bb35126384aa53f8a601738807
+      internalID: 1017597172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_292
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 11
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced013c72c147dd4a8aadb12f18a4cd4
+      internalID: -1591025757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_293
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 11
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76037c312a874dc46a41bc4cb0d5b3e0
+      internalID: 810428300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_294
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f55693fd2137b4282e227a9440b905
+      internalID: 1387080661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_295
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f1f3dc91d4d5240a7bd2dcf03d2749
+      internalID: -982277973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_296
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf9a257be7a9a147a619d1097516e47
+      internalID: -1415345149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_297
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd26c764a5ef4f4b88799f785772c18
+      internalID: -1135157019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_298
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 11
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8b0887eb96539419ba19318e244274
+      internalID: 721726573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_299
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 9
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02490754765d3145bd712d55dc5f3ad
+      internalID: -369112820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_300
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e440f397c4ee0640a347ff7435f6cd3
+      internalID: 1771029166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_301
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256a694a8b084df4fa3f8eff35fba94e
+      internalID: -2123573550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_302
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2aabc31edf09c4fab56e6d126cd94d
+      internalID: 461026370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_303
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 11
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc4e34a543a3e545b7d91d558b591a0
+      internalID: -1578677981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_304
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 9
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d1b8a3cd38e17498e8a8422ce1b2f6
+      internalID: -1355694777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_305
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 11
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e695d2c48199f2499f412d91bbd265d
+      internalID: 61834628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_306
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e735ed55c0cc0d41882043ec8e904db
+      internalID: 1075063607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_307
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b280f059aa8b8438cb7d632edd78f8
+      internalID: -1467380128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_308
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea2994439712094c92c3c54ebf1e954
+      internalID: -1520154093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_309
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 11
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6946a84938fb8f409cb3986c0d4f733
+      internalID: -1488946213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_310
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b718aa6bf9778fc48bb5d410f53edc1b
+      internalID: -1897320345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_311
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92520ba94319fb478c240fb11ff7015
+      internalID: -1086418092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_312
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 11
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95757e800c193049922b11626729c8d
+      internalID: 1542981664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_313
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958383703a9980b43b75930131ceb5dd
+      internalID: -257495638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_314
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 11
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92957807a20ee7345971dc89526d8484
+      internalID: -741005749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_315
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 11
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0b5bcffae975c45a7eb886a9f566a6
+      internalID: 504660427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_316
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 11
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d786207ced44a9740955c613ef390ad0
+      internalID: -963579471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_317
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 9
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0d9b11a68c9f24892333389f823975
+      internalID: -1189672440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_318
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 9
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1461215c5e6e02640b6d3b3b629b7e08
+      internalID: 721840254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_319
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23d7fb92c10a3d41ba25fc4f5b1e1ce
+      internalID: 744920839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_320
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200167c6956cbab419422dc7579bd53c
+      internalID: -107390069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_321
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01024dc326359c741aa357b34890280c
+      internalID: -382081109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_322
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e35134d04d694f43b2461080e4227b2
+      internalID: 995421185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_323
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 11
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2542d347e0e25a243b4641b1ebfea03e
+      internalID: -1800115195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_324
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c40cd5d2ed2654aa0cf6a00d0cbca2
+      internalID: 303521071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperBomberman2-Bomberman_325
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 11
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0722fa297b0444145a244e1018410f4d
+      internalID: -1029616921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3e552230d9b512847bc983d13cea4b7d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SuperBomberman2-Bomberman_0: -1076396330
+      SuperBomberman2-Bomberman_1: -817743082
+      SuperBomberman2-Bomberman_10: 1214745163
+      SuperBomberman2-Bomberman_100: 1679732442
+      SuperBomberman2-Bomberman_101: -1130307749
+      SuperBomberman2-Bomberman_102: 1314977518
+      SuperBomberman2-Bomberman_103: -2070799151
+      SuperBomberman2-Bomberman_104: 1697981641
+      SuperBomberman2-Bomberman_105: -350802518
+      SuperBomberman2-Bomberman_106: -312703585
+      SuperBomberman2-Bomberman_107: 1544275092
+      SuperBomberman2-Bomberman_108: -382724273
+      SuperBomberman2-Bomberman_109: -1080501339
+      SuperBomberman2-Bomberman_11: -1825945031
+      SuperBomberman2-Bomberman_110: -1233875926
+      SuperBomberman2-Bomberman_111: -677333333
+      SuperBomberman2-Bomberman_112: -210281347
+      SuperBomberman2-Bomberman_113: -1557601612
+      SuperBomberman2-Bomberman_114: 1177512905
+      SuperBomberman2-Bomberman_115: -1332761857
+      SuperBomberman2-Bomberman_116: -1039034967
+      SuperBomberman2-Bomberman_117: -1669881612
+      SuperBomberman2-Bomberman_118: -978145043
+      SuperBomberman2-Bomberman_119: 56680078
+      SuperBomberman2-Bomberman_12: 1724588260
+      SuperBomberman2-Bomberman_120: 2092101717
+      SuperBomberman2-Bomberman_121: 1569161993
+      SuperBomberman2-Bomberman_122: -1932010419
+      SuperBomberman2-Bomberman_123: 1078127386
+      SuperBomberman2-Bomberman_124: 355975390
+      SuperBomberman2-Bomberman_125: 219821328
+      SuperBomberman2-Bomberman_126: -1897575859
+      SuperBomberman2-Bomberman_127: 1830056162
+      SuperBomberman2-Bomberman_128: -1500867479
+      SuperBomberman2-Bomberman_129: 1471589512
+      SuperBomberman2-Bomberman_13: -1183743718
+      SuperBomberman2-Bomberman_130: -89920525
+      SuperBomberman2-Bomberman_131: -1390794546
+      SuperBomberman2-Bomberman_132: 84290317
+      SuperBomberman2-Bomberman_133: 899746307
+      SuperBomberman2-Bomberman_134: 257412589
+      SuperBomberman2-Bomberman_135: -647235841
+      SuperBomberman2-Bomberman_136: -1960848809
+      SuperBomberman2-Bomberman_137: -1097019683
+      SuperBomberman2-Bomberman_138: -2134247776
+      SuperBomberman2-Bomberman_139: 373224690
+      SuperBomberman2-Bomberman_14: 502255326
+      SuperBomberman2-Bomberman_140: -1721361430
+      SuperBomberman2-Bomberman_141: -116609184
+      SuperBomberman2-Bomberman_142: 377581615
+      SuperBomberman2-Bomberman_143: 1372429083
+      SuperBomberman2-Bomberman_144: -1541626391
+      SuperBomberman2-Bomberman_145: 2059221613
+      SuperBomberman2-Bomberman_146: -1009736293
+      SuperBomberman2-Bomberman_147: 223096258
+      SuperBomberman2-Bomberman_148: 1014655275
+      SuperBomberman2-Bomberman_149: -2112735035
+      SuperBomberman2-Bomberman_15: -1795885310
+      SuperBomberman2-Bomberman_150: 818418673
+      SuperBomberman2-Bomberman_151: -1151863193
+      SuperBomberman2-Bomberman_152: 1471219141
+      SuperBomberman2-Bomberman_153: -1419380597
+      SuperBomberman2-Bomberman_154: -705421370
+      SuperBomberman2-Bomberman_155: -1927369486
+      SuperBomberman2-Bomberman_156: 141063214
+      SuperBomberman2-Bomberman_157: 1161877883
+      SuperBomberman2-Bomberman_158: -422000394
+      SuperBomberman2-Bomberman_159: 151834143
+      SuperBomberman2-Bomberman_16: -99342749
+      SuperBomberman2-Bomberman_160: 204631938
+      SuperBomberman2-Bomberman_161: -1092132291
+      SuperBomberman2-Bomberman_162: -23806102
+      SuperBomberman2-Bomberman_163: -1520793742
+      SuperBomberman2-Bomberman_164: 631648778
+      SuperBomberman2-Bomberman_165: -1202198313
+      SuperBomberman2-Bomberman_166: 1735969907
+      SuperBomberman2-Bomberman_167: 12578991
+      SuperBomberman2-Bomberman_168: -1297986302
+      SuperBomberman2-Bomberman_169: -1536179173
+      SuperBomberman2-Bomberman_17: 737323168
+      SuperBomberman2-Bomberman_170: -1759928636
+      SuperBomberman2-Bomberman_171: -1863427907
+      SuperBomberman2-Bomberman_172: 761240721
+      SuperBomberman2-Bomberman_173: -1784463718
+      SuperBomberman2-Bomberman_174: 324550230
+      SuperBomberman2-Bomberman_175: 508750336
+      SuperBomberman2-Bomberman_176: 1093095880
+      SuperBomberman2-Bomberman_177: -7907550
+      SuperBomberman2-Bomberman_178: -226095087
+      SuperBomberman2-Bomberman_179: -1291005737
+      SuperBomberman2-Bomberman_18: 512891288
+      SuperBomberman2-Bomberman_180: -1932286384
+      SuperBomberman2-Bomberman_181: -1660448022
+      SuperBomberman2-Bomberman_182: 2045652931
+      SuperBomberman2-Bomberman_183: 1382114338
+      SuperBomberman2-Bomberman_184: 1743267177
+      SuperBomberman2-Bomberman_185: -2103149804
+      SuperBomberman2-Bomberman_186: -307050539
+      SuperBomberman2-Bomberman_187: -244645861
+      SuperBomberman2-Bomberman_188: -890758113
+      SuperBomberman2-Bomberman_189: 1283093840
+      SuperBomberman2-Bomberman_19: -784508211
+      SuperBomberman2-Bomberman_190: -1074391094
+      SuperBomberman2-Bomberman_191: 1440177345
+      SuperBomberman2-Bomberman_192: -893474837
+      SuperBomberman2-Bomberman_193: -1873638043
+      SuperBomberman2-Bomberman_194: 1150939950
+      SuperBomberman2-Bomberman_195: 172245130
+      SuperBomberman2-Bomberman_196: 1056356584
+      SuperBomberman2-Bomberman_197: -1917803086
+      SuperBomberman2-Bomberman_198: -1921783529
+      SuperBomberman2-Bomberman_199: 2040529809
+      SuperBomberman2-Bomberman_2: -1555065146
+      SuperBomberman2-Bomberman_20: 93713527
+      SuperBomberman2-Bomberman_200: -912587416
+      SuperBomberman2-Bomberman_201: 1167216439
+      SuperBomberman2-Bomberman_202: -1312096994
+      SuperBomberman2-Bomberman_203: 840083790
+      SuperBomberman2-Bomberman_204: 1414552513
+      SuperBomberman2-Bomberman_205: -44455101
+      SuperBomberman2-Bomberman_206: 1133518120
+      SuperBomberman2-Bomberman_207: 242397323
+      SuperBomberman2-Bomberman_208: 407916897
+      SuperBomberman2-Bomberman_209: -1217540708
+      SuperBomberman2-Bomberman_21: -489820721
+      SuperBomberman2-Bomberman_210: -884451533
+      SuperBomberman2-Bomberman_211: -546983031
+      SuperBomberman2-Bomberman_212: -809088464
+      SuperBomberman2-Bomberman_213: -2115922056
+      SuperBomberman2-Bomberman_214: 949293939
+      SuperBomberman2-Bomberman_215: 1993820215
+      SuperBomberman2-Bomberman_216: 1384944929
+      SuperBomberman2-Bomberman_217: -1136514670
+      SuperBomberman2-Bomberman_218: -1669140326
+      SuperBomberman2-Bomberman_219: 312936684
+      SuperBomberman2-Bomberman_22: -873153157
+      SuperBomberman2-Bomberman_220: 1737275229
+      SuperBomberman2-Bomberman_221: 1186567980
+      SuperBomberman2-Bomberman_222: -1846326158
+      SuperBomberman2-Bomberman_223: 618261349
+      SuperBomberman2-Bomberman_224: -789230825
+      SuperBomberman2-Bomberman_225: -870660698
+      SuperBomberman2-Bomberman_226: 1879325677
+      SuperBomberman2-Bomberman_227: 1735322558
+      SuperBomberman2-Bomberman_228: 1133197637
+      SuperBomberman2-Bomberman_229: 1802595662
+      SuperBomberman2-Bomberman_23: 1599380911
+      SuperBomberman2-Bomberman_230: 40623941
+      SuperBomberman2-Bomberman_231: -1499113569
+      SuperBomberman2-Bomberman_232: 1281698675
+      SuperBomberman2-Bomberman_233: -1297575649
+      SuperBomberman2-Bomberman_234: -61077911
+      SuperBomberman2-Bomberman_235: 1071459209
+      SuperBomberman2-Bomberman_236: -1941095576
+      SuperBomberman2-Bomberman_237: 237138695
+      SuperBomberman2-Bomberman_238: 1391572578
+      SuperBomberman2-Bomberman_239: -486617717
+      SuperBomberman2-Bomberman_24: -1522344308
+      SuperBomberman2-Bomberman_240: 924754149
+      SuperBomberman2-Bomberman_241: -633835256
+      SuperBomberman2-Bomberman_242: 342869978
+      SuperBomberman2-Bomberman_243: -101574976
+      SuperBomberman2-Bomberman_244: 1980486730
+      SuperBomberman2-Bomberman_245: 1158979611
+      SuperBomberman2-Bomberman_246: -847967904
+      SuperBomberman2-Bomberman_247: -648443384
+      SuperBomberman2-Bomberman_248: -385006341
+      SuperBomberman2-Bomberman_249: -1817205880
+      SuperBomberman2-Bomberman_25: -898272445
+      SuperBomberman2-Bomberman_250: 892096876
+      SuperBomberman2-Bomberman_251: -886193070
+      SuperBomberman2-Bomberman_252: -617139717
+      SuperBomberman2-Bomberman_253: -1525313640
+      SuperBomberman2-Bomberman_254: -1922637811
+      SuperBomberman2-Bomberman_255: 2146762406
+      SuperBomberman2-Bomberman_256: -1115569368
+      SuperBomberman2-Bomberman_257: -1918834202
+      SuperBomberman2-Bomberman_258: 934222705
+      SuperBomberman2-Bomberman_259: -364591268
+      SuperBomberman2-Bomberman_26: -1110331808
+      SuperBomberman2-Bomberman_260: 1288977097
+      SuperBomberman2-Bomberman_261: 1640741360
+      SuperBomberman2-Bomberman_262: 1513582642
+      SuperBomberman2-Bomberman_263: -1874492814
+      SuperBomberman2-Bomberman_264: 910807456
+      SuperBomberman2-Bomberman_265: -480425780
+      SuperBomberman2-Bomberman_266: 2077373062
+      SuperBomberman2-Bomberman_267: -2095622751
+      SuperBomberman2-Bomberman_268: -1637304710
+      SuperBomberman2-Bomberman_269: -491218308
+      SuperBomberman2-Bomberman_27: -1450917054
+      SuperBomberman2-Bomberman_270: -1138100369
+      SuperBomberman2-Bomberman_271: 1930849096
+      SuperBomberman2-Bomberman_272: -1981441124
+      SuperBomberman2-Bomberman_273: 669639758
+      SuperBomberman2-Bomberman_274: -2093803241
+      SuperBomberman2-Bomberman_275: -866243235
+      SuperBomberman2-Bomberman_276: 2140729754
+      SuperBomberman2-Bomberman_277: 1516470995
+      SuperBomberman2-Bomberman_278: -693020547
+      SuperBomberman2-Bomberman_279: 1776321544
+      SuperBomberman2-Bomberman_28: -1928441042
+      SuperBomberman2-Bomberman_280: -1609949610
+      SuperBomberman2-Bomberman_281: 1473746069
+      SuperBomberman2-Bomberman_282: 1742746457
+      SuperBomberman2-Bomberman_283: 1246806032
+      SuperBomberman2-Bomberman_284: 1690590158
+      SuperBomberman2-Bomberman_285: -1470898788
+      SuperBomberman2-Bomberman_286: -1900146100
+      SuperBomberman2-Bomberman_287: -1637616027
+      SuperBomberman2-Bomberman_288: -446110741
+      SuperBomberman2-Bomberman_289: 470846756
+      SuperBomberman2-Bomberman_29: 448763787
+      SuperBomberman2-Bomberman_290: -1394769900
+      SuperBomberman2-Bomberman_291: 1017597172
+      SuperBomberman2-Bomberman_292: -1591025757
+      SuperBomberman2-Bomberman_293: 810428300
+      SuperBomberman2-Bomberman_294: 1387080661
+      SuperBomberman2-Bomberman_295: -982277973
+      SuperBomberman2-Bomberman_296: -1415345149
+      SuperBomberman2-Bomberman_297: -1135157019
+      SuperBomberman2-Bomberman_298: 721726573
+      SuperBomberman2-Bomberman_299: -369112820
+      SuperBomberman2-Bomberman_3: 193375416
+      SuperBomberman2-Bomberman_30: -63240987
+      SuperBomberman2-Bomberman_300: 1771029166
+      SuperBomberman2-Bomberman_301: -2123573550
+      SuperBomberman2-Bomberman_302: 461026370
+      SuperBomberman2-Bomberman_303: -1578677981
+      SuperBomberman2-Bomberman_304: -1355694777
+      SuperBomberman2-Bomberman_305: 61834628
+      SuperBomberman2-Bomberman_306: 1075063607
+      SuperBomberman2-Bomberman_307: -1467380128
+      SuperBomberman2-Bomberman_308: -1520154093
+      SuperBomberman2-Bomberman_309: -1488946213
+      SuperBomberman2-Bomberman_31: 620161391
+      SuperBomberman2-Bomberman_310: -1897320345
+      SuperBomberman2-Bomberman_311: -1086418092
+      SuperBomberman2-Bomberman_312: 1542981664
+      SuperBomberman2-Bomberman_313: -257495638
+      SuperBomberman2-Bomberman_314: -741005749
+      SuperBomberman2-Bomberman_315: 504660427
+      SuperBomberman2-Bomberman_316: -963579471
+      SuperBomberman2-Bomberman_317: -1189672440
+      SuperBomberman2-Bomberman_318: 721840254
+      SuperBomberman2-Bomberman_319: 744920839
+      SuperBomberman2-Bomberman_32: -1718116190
+      SuperBomberman2-Bomberman_320: -107390069
+      SuperBomberman2-Bomberman_321: -382081109
+      SuperBomberman2-Bomberman_322: 995421185
+      SuperBomberman2-Bomberman_323: -1800115195
+      SuperBomberman2-Bomberman_324: 303521071
+      SuperBomberman2-Bomberman_325: -1029616921
+      SuperBomberman2-Bomberman_33: -1391670512
+      SuperBomberman2-Bomberman_34: -321686873
+      SuperBomberman2-Bomberman_35: -2001849796
+      SuperBomberman2-Bomberman_36: 464269671
+      SuperBomberman2-Bomberman_37: -1412495903
+      SuperBomberman2-Bomberman_38: 992686889
+      SuperBomberman2-Bomberman_39: 286571778
+      SuperBomberman2-Bomberman_4: -1728830670
+      SuperBomberman2-Bomberman_40: -1502942220
+      SuperBomberman2-Bomberman_41: -1596315563
+      SuperBomberman2-Bomberman_42: 988333504
+      SuperBomberman2-Bomberman_43: -1345823928
+      SuperBomberman2-Bomberman_44: -157914317
+      SuperBomberman2-Bomberman_45: 2028738638
+      SuperBomberman2-Bomberman_46: 1900368307
+      SuperBomberman2-Bomberman_47: 155266849
+      SuperBomberman2-Bomberman_48: -502814238
+      SuperBomberman2-Bomberman_49: 1271710887
+      SuperBomberman2-Bomberman_5: -1119182141
+      SuperBomberman2-Bomberman_50: 902312761
+      SuperBomberman2-Bomberman_51: 737729108
+      SuperBomberman2-Bomberman_52: -433954091
+      SuperBomberman2-Bomberman_53: -1713985366
+      SuperBomberman2-Bomberman_54: 1356759002
+      SuperBomberman2-Bomberman_55: 1958508015
+      SuperBomberman2-Bomberman_56: 284862480
+      SuperBomberman2-Bomberman_57: -1495119224
+      SuperBomberman2-Bomberman_58: -164358107
+      SuperBomberman2-Bomberman_59: -1824235601
+      SuperBomberman2-Bomberman_6: -1441132968
+      SuperBomberman2-Bomberman_60: -1985012922
+      SuperBomberman2-Bomberman_61: 1630145396
+      SuperBomberman2-Bomberman_62: -1082606970
+      SuperBomberman2-Bomberman_63: 664932079
+      SuperBomberman2-Bomberman_64: 213805098
+      SuperBomberman2-Bomberman_65: -1723185144
+      SuperBomberman2-Bomberman_66: 473240875
+      SuperBomberman2-Bomberman_67: 1952607651
+      SuperBomberman2-Bomberman_68: 1835590237
+      SuperBomberman2-Bomberman_69: 1265773603
+      SuperBomberman2-Bomberman_7: -2044743876
+      SuperBomberman2-Bomberman_70: 1252294249
+      SuperBomberman2-Bomberman_71: 560254692
+      SuperBomberman2-Bomberman_72: -1439844955
+      SuperBomberman2-Bomberman_73: 952056705
+      SuperBomberman2-Bomberman_74: 1227336857
+      SuperBomberman2-Bomberman_75: 104120365
+      SuperBomberman2-Bomberman_76: 406710048
+      SuperBomberman2-Bomberman_77: 1896337259
+      SuperBomberman2-Bomberman_78: -1300954869
+      SuperBomberman2-Bomberman_79: -368005293
+      SuperBomberman2-Bomberman_8: 544817641
+      SuperBomberman2-Bomberman_80: -520249723
+      SuperBomberman2-Bomberman_81: 737800215
+      SuperBomberman2-Bomberman_82: 270771452
+      SuperBomberman2-Bomberman_83: -1836031844
+      SuperBomberman2-Bomberman_84: -1019166653
+      SuperBomberman2-Bomberman_85: -1721721526
+      SuperBomberman2-Bomberman_86: -1632477624
+      SuperBomberman2-Bomberman_87: -1390954950
+      SuperBomberman2-Bomberman_88: -359799727
+      SuperBomberman2-Bomberman_89: -523871807
+      SuperBomberman2-Bomberman_9: -1885179873
+      SuperBomberman2-Bomberman_90: 823644389
+      SuperBomberman2-Bomberman_91: -1782967091
+      SuperBomberman2-Bomberman_92: -1015071292
+      SuperBomberman2-Bomberman_93: 822375821
+      SuperBomberman2-Bomberman_94: -532040292
+      SuperBomberman2-Bomberman_95: 1383641840
+      SuperBomberman2-Bomberman_96: -769087359
+      SuperBomberman2-Bomberman_97: 2043781312
+      SuperBomberman2-Bomberman_98: -1714022311
+      SuperBomberman2-Bomberman_99: 1838639107
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
